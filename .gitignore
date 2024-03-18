@@ -5,3 +5,6 @@
 /WebApi/.vs/WebApi
 /WebApi/obj
 /WebApi/WebApi.csproj.user
+/WebApi/bin/Debug/net8.0
+/WebApi/.vs/ProjectEvaluation
+/.vs
